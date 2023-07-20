@@ -2,6 +2,7 @@
 
 html {
     background-color: rgb(43, 24, 0);
+    font-family: serif ;
 }
 main {
     text-align: center;
@@ -73,4 +74,18 @@ footer {
     padding: 5px 5px 5px;
     max-width: 400px;
     width: auto;
+}
+body {
+    margin: 8px;
+}
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#testP {
+    color: rgb(158, 158, 139);
 }
